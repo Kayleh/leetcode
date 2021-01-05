@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f810408-ac69-4316-adcf-3758b36a5e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/md/Dynamic programming/121maxProfit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/md/Dynamic programming/53maxSubArray.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/md/array/1twoSum.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/maxProfit121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/twoSum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coinChange/coinChange1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/divisorGame1025.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/divisorGame1025.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/let398/let398.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/pick398/pick398.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/let53/let53.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/coinChange322.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +59,7 @@
       <recent name="D:\project\leetcode\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.coinChange322">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="java" />
@@ -75,8 +67,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="coinChange322" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coinChange322" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.coinChange322" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -97,7 +97,7 @@
       <workItem from="1615699997371" duration="13000" />
       <workItem from="1615743461191" duration="1656000" />
       <workItem from="1615745145835" duration="182000" />
-      <workItem from="1615810818816" duration="10914000" />
+      <workItem from="1615810818816" duration="14904000" />
     </task>
     <servers />
   </component>
@@ -109,6 +109,38 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1615819444159" />
+    <state width="1851" height="339" key="GridCell.Tab.0.bottom" timestamp="1615916331991">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1851" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1615916331991" />
+    <state width="1851" height="339" key="GridCell.Tab.0.center" timestamp="1615916331990">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1851" height="339" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1615916331990" />
+    <state width="1851" height="339" key="GridCell.Tab.0.left" timestamp="1615916331990">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1851" height="339" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1615916331990" />
+    <state width="1851" height="339" key="GridCell.Tab.0.right" timestamp="1615916331990">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1851" height="339" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1615916331990" />
+    <state width="1851" height="339" key="GridCell.Tab.1.bottom" timestamp="1615916331991">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1851" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1615916331991" />
+    <state width="1851" height="339" key="GridCell.Tab.1.center" timestamp="1615916331991">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1851" height="339" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1615916331991" />
+    <state width="1851" height="339" key="GridCell.Tab.1.left" timestamp="1615916331991">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1851" height="339" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1615916331991" />
+    <state width="1851" height="339" key="GridCell.Tab.1.right" timestamp="1615916331991">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1851" height="339" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1615916331991" />
     <state x="442" y="192" key="IDE.errors.dialog" timestamp="1615664649587">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
