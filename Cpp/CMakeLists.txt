@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(leetcode_C__)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(leetcode_C__ easy/main.cpp easy/twoSum1.cpp easy/reverse7.cpp easy/isPalindrome9.cpp easy/romanToInt13.cpp easy/longestCommonPrefix14.cpp easy/isValid20.cpp easy/mergeTwoLists21.cpp easy/hammingWeight191.cpp easy/singleNumber136.cpp easy/xorOperation1486.cpp easy/titleToNumber171.cpp easy/removeDuplicates26.cpp easy/strStr28.cpp easy/majorityElement169.cpp easy/maxDepth104.cpp easy/generate118.cpp easy/fizzBuzz412.cpp easy/findString1817.cpp easy/reverseList206.cpp easy/reverseLeftWords1748.cpp easy/moveZeroes283.cpp easy/findNumbers1295.cpp easy/sortedArrayToBST108.cpp easy/maxProfit122.cpp easy/isHappy202.cpp easy/isAnagram242.cpp easy/missingNumber268.cpp easy/getIntersectionNode160.cpp easy/countAndSay38.cpp easy/isPowerOfThree326.cpp easy/maxProfit121.cpp easy/intersect350.cpp easy/containsDuplicate217.cpp easy/climbStairs70.cpp easy/hasCycle141.cpp easy/rob198.cpp sort/bubbleSort.cpp sort/selectSort.cpp sort/insertSort.cpp sort/qucik_sort.cpp)

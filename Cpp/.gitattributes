@@ -1,0 +1,6 @@
+*.js linguist-language=cpp
+*.css linguist-language=cpp
+*.html linguist-language=cpp
+*.md linguist-language=cpp
+*.make linguist-language=cpp
+*.cmake linguist-language=cpp

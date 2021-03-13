@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProjects/leetcode_C++/easy/isPalindrome9.cpp
+iostream
+D:/CLionProjects/leetcode_C++/easy/iostream
+
+D:/CLionProjects/leetcode_C++/easy/isValid20.cpp
+iostream
+D:/CLionProjects/leetcode_C++/easy/iostream
+
+D:/CLionProjects/leetcode_C++/easy/longestCommonPrefix14.cpp
+iostream
+D:/CLionProjects/leetcode_C++/easy/iostream
+vector
+-
+
+D:/CLionProjects/leetcode_C++/easy/reverse7.cpp
+iostream
+D:/CLionProjects/leetcode_C++/easy/iostream
+
+D:/CLionProjects/leetcode_C++/easy/romanToInt13.cpp
+iostream
+D:/CLionProjects/leetcode_C++/easy/iostream
+
+D:/CLionProjects/leetcode_C++/easy/twoSum1.cpp
+vector
+D:/CLionProjects/leetcode_C++/easy/vector
+
+D:/CLionProjects/leetcode_C++/main.cpp
+iostream
+D:/CLionProjects/leetcode_C++/iostream
+
