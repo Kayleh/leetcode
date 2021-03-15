@@ -8,23 +8,23 @@ public class divisorGame1025
 {
     public static boolean divisorGame(int N)
     {
-        boolean[] f = new boolean[N + 5];
-
-        f[1] = false;
-        f[2] = true;
+        boolean[] dp = new boolean[N + 5];
+        //base case
+        dp[1] = false;
+        dp[2] = true;
         for (int i = 3; i <= N; ++i)
         {
             for (int j = 1; j < i; ++j)
             {
-                if ((i % j) == 0 && !f[i - j])
+                if ((i % j) == 0 && !dp[i - j])
                 {
-                    f[i] = true;
+                    dp[i] = true;
                     break;
                 }
             }
         }
 
-        return f[N];
+        return dp[N];
     }
 
 

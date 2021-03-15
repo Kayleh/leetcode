@@ -2,160 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f810408-ac69-4316-adcf-3758b36a5e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/md/Dynamic programming/1025divisorGame.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/divisorGame1025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/SQL/NotBoringMovies.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/reserveTree$TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/reserveTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/Bitoperation/Bitoperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/Fibonacci10/Fibonacci.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/createTargetArray1389/CreateTargetArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/defangIPaddr1108/DefangIPaddr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/deleteNode237and1602/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/deleteNode237and1602/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/findNumbers1295/FindNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/game01/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/getKthFromEnd1542/GetKthFromEnd$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/getKthFromEnd1542/GetKthFromEnd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/isLongPressedName925/isLongPressedName.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/isPalindrome125/IsPalindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/isPerfectSquare367/IsPerfectSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/AIO/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/AIO/Server$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/AIO/Server$AcceptHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/AIO/Server$ClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/AIO/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/BIO/BIO_Chat/ChatClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/BIO/BIO_Chat/ChatHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/BIO/BIO_Chat/ChatServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/BIO/BIO_Chat/UserInputHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/BIO/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/BIO/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/Hero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/HeroChecker.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/NIO/FileCopyDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/NIO/FileCopyDemo$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/NIO/FileCopyDemo$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/NIO/FileCopyDemo$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/NIO/FileCopyDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/NIO/FileCopyRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/NIO/NIO_Chat/ChatClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/NIO/NIO_Chat/ChatServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/NIO/NIO_Chat/UserInputHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/TestLambda1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/TestLambda2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/TestLambda2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/TestLambda3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/design/singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/project/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/project/GUI/GUIClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/project/GUI/GUIClient$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/project/GUI/GUIClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/project/GUI/GUIServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/project/GUI/GUIServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/project/GUI/GUIServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/project/RecieveThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/project/SendThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/socket/project/Server.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/AtomicInteger/Hero/Hero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/AtomicInteger/Hero/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/AtomicInteger/Hero/TestThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/AtomicInteger/Hero/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/AtomicInteger/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/AtomicInteger/TestThread1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/AtomicInteger/TestThread1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/AtomicInteger/TestThread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Concurrency/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Concurrency/TestThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Concurrency/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Concurrency/synchronized1/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Concurrency/synchronized1/TestThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Concurrency/synchronized1/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Deadlock/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Deadlock/TestThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Deadlock/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Deadlock/threeLock$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Deadlock/threeLock$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Deadlock/threeLock$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Deadlock/threeLock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/Lock_Condition/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/Lock_Condition/TestThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/Lock_Condition/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/TestThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/project/Consumer/MyStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/project/MyStack/MyStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/project/deadLock/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/project/deadLock/TestThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/project/deadLock/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/trylock/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/trylock/TestThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/Lock/trylock/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/ThreadPoolExecutor/searchFile/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/ThreadPoolExecutor/searchFile/ThreadPool$TaskConsumeThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/ThreadPoolExecutor/searchFile/ThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/ThreadPoolExecutor/searchFile/searchFileTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/ThreadPoolExecutor/threadPoolExecutor$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/ThreadPoolExecutor/threadPoolExecutor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/anonymous/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/anonymous/TestThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/anonymous/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/extend/KillThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/extend/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/project/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/project/password/LogThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/project/password/PasswordThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/project/password/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/project/searchFileThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/runable/Battle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/runable/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/test/Hero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/testIP$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/testIP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/threadPool/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/threadPool/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/threadPool/ThreadPool$TaskConsumeThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/threadPool/ThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/wait_notify/Hero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/wait_notify/Producer_Consumer/ConsumerThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/wait_notify/Producer_Consumer/MyStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/wait_notify/Producer_Consumer/ProducerThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/wait_notify/Producer_Consumer/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/wait_notify/TestThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/wait_notify/TestThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/lambda/thread/wait_notify/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/largestTimeFromDigits949/LargestTimeFromDigits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/let398/let398.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/let53/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/mergeTwoLists21/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/mergeTwoLists21/MergeTwoLists.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/middleNode876/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/middleNode876/MiddleNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/minCount1511/MinCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/name.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/numIdenticalPairs1512/numIdenticalPairs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/numJewelsInStones771/NumJewelsInStones.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/numberOfSteps1342/numberOfSteps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/removeDuplicateNodes1600/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/removeDuplicateNodes1600/RemoveDuplicateNodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/reverseLeftWords58/reverseLeftWords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/reverseList24/reverseList$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/reverseList24/reverseList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/reversePrint1612/ReversePrint$ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/reversePrint1612/ReversePrint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/reverseString344/ReverseString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/reverseWords557/ReverseWords$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/reverseWords557/ReverseWords.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/runningSum1479/RunningSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/shuffle1470/shuffle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/smallerNumbersThanCurrent1365/SmallerNumbersThanCurrent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/sparseArraySearchLcci1761/sparseArraySearchLcci1761.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java/src/subtractProductAndSum1281/SubtractProductAndSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/push.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/deleteNode237and1602/DeleteNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/deleteNode237and1602/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/Dynamic programming/121maxProfit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/Dynamic programming/53maxSubArray.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/array/1twoSum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/maxProfit121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/twoSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coinChange/coinChange1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/divisorGame1025.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/divisorGame1025.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/let398/let398.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/pick398/pick398.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/let53/let53.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,18 +48,23 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Cpp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/md/Dynamic programming" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\project\leetcode\java\md\Dynamic programming" />
-      <recent name="D:\project\leetcode\java\src" />
-      <recent name="D:\project\leetcode\java" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\leetcode\java\md\Dynamic programming" />
       <recent name="D:\project\leetcode\Cpp" />
       <recent name="D:\project\leetcode\Cpp\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="hashTable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\leetcode\java\src" />
+      <recent name="D:\project\leetcode\java\md\Dynamic programming" />
+      <recent name="D:\project\leetcode\java" />
     </key>
   </component>
   <component name="RunManager">
@@ -236,6 +96,8 @@
       <workItem from="1615664553116" duration="97000" />
       <workItem from="1615699997371" duration="13000" />
       <workItem from="1615743461191" duration="1656000" />
+      <workItem from="1615745145835" duration="182000" />
+      <workItem from="1615810818816" duration="10914000" />
     </task>
     <servers />
   </component>
@@ -243,10 +105,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615743513246">
+    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615819444159">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1615743513246" />
+    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1615819444159" />
     <state x="442" y="192" key="IDE.errors.dialog" timestamp="1615664649587">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
