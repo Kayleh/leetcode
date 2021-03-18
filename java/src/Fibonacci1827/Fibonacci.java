@@ -16,45 +16,93 @@ public class Fibonacci
 {
     public static void main(String[] args)
     {
-        int fibonacci = fib(45);
-        System.out.println(fibonacci);
+//        Fibonacci fibonacci = new Fibonacci();
+//        int fib = fibonacci.fib(3);
+//        System.out.println(fib);
     }
 
-    //递归
-    public static int fib1(int n)
+    //状态压缩
+    public int fib(int n)
     {
-        if (n == 0)
+        if (n < 1) return 0;
+        if (n == 1 || n == 2) return 1;
+        int first = 1;//dp[1]
+        int second = 1;//dp[2]
+        int curr = 0;
+        for (int i = 3; i <= n; i++)
         {
-            return 0;
-        } else if (n == 1)
-        {
-            return 1;
-        } else
-        {
-            return fib1(n - 1) + fib1(n - 2);
+            curr = first + second;
+            first = second;
+            second = curr;
         }
+        return curr;
     }
+//    //动态规划 dp数组
+//    public int fib(int n)
+//    {
+//        if (n < 1) return 0;
+//        if (n == 1 || n == 2) return 1;
+//        int[] dp = new int[n + 1];
+//        Arrays.fill(dp, 0);
+//        dp[1] = dp[2] = 1;
+//        for (int i = 3; i <= n; i++)
+//        {
+//            dp[i] = dp[i - 2] + dp[i - 1];
+//        }
+//        return dp[n];
+//    }
 
-    //非递归
-    public static int fib(int n)
-    {
-        if (n == 0)
-        {
-            return 0;
-        } else if (n == 1)
-        {
-            return 1;
-        } else
-        {
-            int first = 0;
-            int second = 1;
-            for (int i = 0; i < n - 1; i++)
-            {
-                int result = first + second;
-                first = second;
-                second = result;
-            }
-            return second % 1000000007;
-        }
-    }
+//    //带备忘录的递归
+//    public  int fib(int n)
+//    {
+//        if (n < 1) return 0;
+//        int[] rem = new int[n + 1];
+//        Arrays.fill(rem, 0);
+//        return helper(rem, n);
+//    }
+//    public static int helper(int[] rem, int n)
+//    {
+//        // base case
+//        if (n == 1 || n == 2) return 1;
+//        if (rem[n] != 0) return rem[0];
+//        return helper(rem, n-2)+helper(rem, n-1);
+//    }
+
+//    //递归
+//    public static int fib1(int n)
+//    {
+//        if (n == 0)
+//        {
+//            return 0;
+//        } else if (n == 1)
+//        {
+//            return 1;
+//        } else
+//        {
+//            return fib1(n - 1) + fib1(n - 2);
+//        }
+//    }
+//
+//    //非递归
+//    public static int fib(int n)
+//    {
+//        if (n == 0)
+//        {
+//            return 0;
+//        } else if (n == 1)
+//        {
+//            return 1;
+//        } else
+//        {
+//            int first = 0;
+//            int second = 1;
+//            for (int i = 0; i < n - 1; i++)
+//            {
+//                int result = first + second;
+//                first = second;
+//                second = result;
+//            }
+//            return second % 1000000007;
+//        }
+//    }
 }
