@@ -22,7 +22,7 @@ public class permute
 
     void backtrack(int[] nums, LinkedList<Integer> track)
     {
-        //结束条件
+        //结束条件，完成一组路径
         if (track.size() == nums.length)
         {
             res.add(new LinkedList<>(track));
