@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f810408-ac69-4316-adcf-3758b36a5e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/md/Backtracking/51solveNQueens.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/solveNQueens51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/md/Backtracking/permute.md" beforeDir="false" afterPath="$PROJECT_DIR$/java/md/Backtracking/46permute.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/permute46/permute.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/permute46/permute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/155MinStack.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/MinStack155.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <recent name="D:\project\leetcode\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Fibonacci">
+  <component name="RunManager" selected="Application.MinStack155">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Fibonacci10.Fibonacci" />
       <module name="java" />
@@ -72,6 +70,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinStack155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinStack155" />
+      <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinStack155" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.coinChange322" />
         <item itemvalue="Application.Solution" />
@@ -118,7 +124,8 @@
       <workItem from="1616004646318" duration="1839000" />
       <workItem from="1616085254921" duration="618000" />
       <workItem from="1616246047185" duration="1486000" />
-      <workItem from="1616306603876" duration="7229000" />
+      <workItem from="1616306603876" duration="7348000" />
+      <workItem from="1616917778370" duration="1455000" />
     </task>
     <servers />
   </component>
@@ -134,38 +141,38 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="624" y="216" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1616314121930" />
-    <state width="1851" height="273" key="GridCell.Tab.0.bottom" timestamp="1616006221530">
+    <state width="1851" height="273" key="GridCell.Tab.0.bottom" timestamp="1616919136544">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1616006221530" />
-    <state width="1851" height="273" key="GridCell.Tab.0.center" timestamp="1616006221530">
+    <state width="1851" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1616919136544" />
+    <state width="1851" height="273" key="GridCell.Tab.0.center" timestamp="1616919136544">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="273" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1616006221530" />
-    <state width="1851" height="273" key="GridCell.Tab.0.left" timestamp="1616006221530">
+    <state width="1851" height="273" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1616919136544" />
+    <state width="1851" height="273" key="GridCell.Tab.0.left" timestamp="1616919136544">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="273" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1616006221530" />
-    <state width="1851" height="273" key="GridCell.Tab.0.right" timestamp="1616006221530">
+    <state width="1851" height="273" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1616919136544" />
+    <state width="1851" height="273" key="GridCell.Tab.0.right" timestamp="1616919136544">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="273" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1616006221530" />
-    <state width="1851" height="339" key="GridCell.Tab.1.bottom" timestamp="1615919604430">
+    <state width="1851" height="273" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1616919136544" />
+    <state width="1851" height="339" key="GridCell.Tab.1.bottom" timestamp="1616918892593">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1615919604430" />
-    <state width="1851" height="339" key="GridCell.Tab.1.center" timestamp="1615919604430">
+    <state width="1851" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1616918892593" />
+    <state width="1851" height="339" key="GridCell.Tab.1.center" timestamp="1616918892592">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="339" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1615919604430" />
-    <state width="1851" height="339" key="GridCell.Tab.1.left" timestamp="1615919604430">
+    <state width="1851" height="339" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1616918892592" />
+    <state width="1851" height="339" key="GridCell.Tab.1.left" timestamp="1616918892592">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="339" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1615919604430" />
-    <state width="1851" height="339" key="GridCell.Tab.1.right" timestamp="1615919604430">
+    <state width="1851" height="339" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1616918892592" />
+    <state width="1851" height="339" key="GridCell.Tab.1.right" timestamp="1616918892593">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="339" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1615919604430" />
+    <state width="1851" height="339" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1616918892593" />
     <state x="442" y="192" key="IDE.errors.dialog" timestamp="1615664649587">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
