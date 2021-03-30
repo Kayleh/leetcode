@@ -45,7 +45,7 @@ CMakeFiles/leetcode_C__.dir/easy/maxProfit121.cpp.obj: ../easy/maxProfit121.cpp
 
 CMakeFiles/leetcode_C__.dir/easy/maxProfit122.cpp.obj: ../easy/maxProfit122.cpp
 
-CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.obj: ../easy/mergeTwoLists21.cpp
+CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.obj: ../easy/linkedlist.mergeTwoLists21.cpp
 
 CMakeFiles/leetcode_C__.dir/easy/missingNumber268.cpp.obj: ../easy/missingNumber268.cpp
 

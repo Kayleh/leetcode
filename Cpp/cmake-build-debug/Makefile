@@ -736,32 +736,32 @@ easy/maxProfit122.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_C__.dir\build.make CMakeFiles/leetcode_C__.dir/easy/maxProfit122.cpp.s
 .PHONY : easy/maxProfit122.cpp.s
 
-easy/mergeTwoLists21.obj: easy/mergeTwoLists21.cpp.obj
+easy/linkedlist.mergeTwoLists21.obj: easy/linkedlist.mergeTwoLists21.cpp.obj
 
-.PHONY : easy/mergeTwoLists21.obj
+.PHONY : easy/linkedlist.mergeTwoLists21.obj
 
 # target to build an object file
-easy/mergeTwoLists21.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_C__.dir\build.make CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.obj
-.PHONY : easy/mergeTwoLists21.cpp.obj
+easy/linkedlist.mergeTwoLists21.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_C__.dir\build.make CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.obj
+.PHONY : easy/linkedlist.mergeTwoLists21.cpp.obj
 
-easy/mergeTwoLists21.i: easy/mergeTwoLists21.cpp.i
+easy/linkedlist.mergeTwoLists21.i: easy/linkedlist.mergeTwoLists21.cpp.i
 
-.PHONY : easy/mergeTwoLists21.i
+.PHONY : easy/linkedlist.mergeTwoLists21.i
 
 # target to preprocess a source file
-easy/mergeTwoLists21.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_C__.dir\build.make CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.i
-.PHONY : easy/mergeTwoLists21.cpp.i
+easy/linkedlist.mergeTwoLists21.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_C__.dir\build.make CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.i
+.PHONY : easy/linkedlist.mergeTwoLists21.cpp.i
 
-easy/mergeTwoLists21.s: easy/mergeTwoLists21.cpp.s
+easy/linkedlist.mergeTwoLists21.s: easy/linkedlist.mergeTwoLists21.cpp.s
 
-.PHONY : easy/mergeTwoLists21.s
+.PHONY : easy/linkedlist.mergeTwoLists21.s
 
 # target to generate assembly for a file
-easy/mergeTwoLists21.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_C__.dir\build.make CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.s
-.PHONY : easy/mergeTwoLists21.cpp.s
+easy/linkedlist.mergeTwoLists21.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\leetcode_C__.dir\build.make CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.s
+.PHONY : easy/linkedlist.mergeTwoLists21.cpp.s
 
 easy/missingNumber268.obj: easy/missingNumber268.cpp.obj
 
@@ -1324,9 +1324,9 @@ help:
 	@echo ... easy/maxProfit122.obj
 	@echo ... easy/maxProfit122.i
 	@echo ... easy/maxProfit122.s
-	@echo ... easy/mergeTwoLists21.obj
-	@echo ... easy/mergeTwoLists21.i
-	@echo ... easy/mergeTwoLists21.s
+	@echo ... easy/linkedlist.mergeTwoLists21.obj
+	@echo ... easy/linkedlist.mergeTwoLists21.i
+	@echo ... easy/linkedlist.mergeTwoLists21.s
 	@echo ... easy/missingNumber268.obj
 	@echo ... easy/missingNumber268.i
 	@echo ... easy/missingNumber268.s

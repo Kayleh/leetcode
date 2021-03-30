@@ -21,7 +21,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/leetcode_C__.dir/easy/maxDepth104.cpp.obj"
   "CMakeFiles/leetcode_C__.dir/easy/maxProfit121.cpp.obj"
   "CMakeFiles/leetcode_C__.dir/easy/maxProfit122.cpp.obj"
-  "CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.obj"
+  "CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.obj"
   "CMakeFiles/leetcode_C__.dir/easy/missingNumber268.cpp.obj"
   "CMakeFiles/leetcode_C__.dir/easy/moveZeroes283.cpp.obj"
   "CMakeFiles/leetcode_C__.dir/easy/removeDuplicates26.cpp.obj"

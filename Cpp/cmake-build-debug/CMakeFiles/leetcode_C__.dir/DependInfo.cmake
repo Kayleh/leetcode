@@ -26,7 +26,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/CLionProjects/leetcode_C++/easy/maxDepth104.cpp" "D:/CLionProjects/leetcode_C++/cmake-build-debug/CMakeFiles/leetcode_C__.dir/easy/maxDepth104.cpp.obj"
   "D:/CLionProjects/leetcode_C++/easy/maxProfit121.cpp" "D:/CLionProjects/leetcode_C++/cmake-build-debug/CMakeFiles/leetcode_C__.dir/easy/maxProfit121.cpp.obj"
   "D:/CLionProjects/leetcode_C++/easy/maxProfit122.cpp" "D:/CLionProjects/leetcode_C++/cmake-build-debug/CMakeFiles/leetcode_C__.dir/easy/maxProfit122.cpp.obj"
-  "D:/CLionProjects/leetcode_C++/easy/mergeTwoLists21.cpp" "D:/CLionProjects/leetcode_C++/cmake-build-debug/CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.obj"
+  "D:/CLionProjects/leetcode_C++/easy/linkedlist.mergeTwoLists21.cpp" "D:/CLionProjects/leetcode_C++/cmake-build-debug/CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.obj"
   "D:/CLionProjects/leetcode_C++/easy/missingNumber268.cpp" "D:/CLionProjects/leetcode_C++/cmake-build-debug/CMakeFiles/leetcode_C__.dir/easy/missingNumber268.cpp.obj"
   "D:/CLionProjects/leetcode_C++/easy/moveZeroes283.cpp" "D:/CLionProjects/leetcode_C++/cmake-build-debug/CMakeFiles/leetcode_C__.dir/easy/moveZeroes283.cpp.obj"
   "D:/CLionProjects/leetcode_C++/easy/removeDuplicates26.cpp" "D:/CLionProjects/leetcode_C++/cmake-build-debug/CMakeFiles/leetcode_C__.dir/easy/removeDuplicates26.cpp.obj"

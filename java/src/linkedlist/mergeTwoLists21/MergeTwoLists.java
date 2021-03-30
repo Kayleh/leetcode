@@ -1,4 +1,4 @@
-package src.mergeTwoLists21;
+package linkedlist.mergeTwoLists21;
 
 /**
  * @Author: Wizard

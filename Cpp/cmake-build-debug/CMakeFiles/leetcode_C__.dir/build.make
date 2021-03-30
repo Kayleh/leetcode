@@ -167,18 +167,18 @@ CMakeFiles/leetcode_C__.dir/easy/isValid20.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_C__.dir/easy/isValid20.cpp.s"
 	D:\C\Mingw\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\leetcode_C++\easy\isValid20.cpp -o CMakeFiles\leetcode_C__.dir\easy\isValid20.cpp.s
 
-CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.obj: CMakeFiles/leetcode_C__.dir/flags.make
-CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.obj: ../easy/mergeTwoLists21.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\leetcode_C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.obj"
-	D:\C\Mingw\mingw\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\leetcode_C__.dir\easy\mergeTwoLists21.cpp.obj -c D:\CLionProjects\leetcode_C++\easy\mergeTwoLists21.cpp
+CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.obj: CMakeFiles/leetcode_C__.dir/flags.make
+CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.obj: ../easy/linkedlist.mergeTwoLists21.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\leetcode_C++\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.obj"
+	D:\C\Mingw\mingw\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\leetcode_C__.dir\easy\linkedlist.mergeTwoLists21.cpp.obj -c D:\CLionProjects\leetcode_C++\easy\linkedlist.mergeTwoLists21.cpp
 
-CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.i"
-	D:\C\Mingw\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\leetcode_C++\easy\mergeTwoLists21.cpp > CMakeFiles\leetcode_C__.dir\easy\mergeTwoLists21.cpp.i
+CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.i"
+	D:\C\Mingw\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\leetcode_C++\easy\linkedlist.mergeTwoLists21.cpp > CMakeFiles\leetcode_C__.dir\easy\linkedlist.mergeTwoLists21.cpp.i
 
-CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.s"
-	D:\C\Mingw\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\leetcode_C++\easy\mergeTwoLists21.cpp -o CMakeFiles\leetcode_C__.dir\easy\mergeTwoLists21.cpp.s
+CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.s"
+	D:\C\Mingw\mingw\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\leetcode_C++\easy\linkedlist.mergeTwoLists21.cpp -o CMakeFiles\leetcode_C__.dir\easy\linkedlist.mergeTwoLists21.cpp.s
 
 CMakeFiles/leetcode_C__.dir/easy/hammingWeight191.cpp.obj: CMakeFiles/leetcode_C__.dir/flags.make
 CMakeFiles/leetcode_C__.dir/easy/hammingWeight191.cpp.obj: ../easy/hammingWeight191.cpp
@@ -618,7 +618,7 @@ leetcode_C___OBJECTS = \
 "CMakeFiles/leetcode_C__.dir/easy/romanToInt13.cpp.obj" \
 "CMakeFiles/leetcode_C__.dir/easy/longestCommonPrefix14.cpp.obj" \
 "CMakeFiles/leetcode_C__.dir/easy/isValid20.cpp.obj" \
-"CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.obj" \
+"CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.obj" \
 "CMakeFiles/leetcode_C__.dir/easy/hammingWeight191.cpp.obj" \
 "CMakeFiles/leetcode_C__.dir/easy/singleNumber136.cpp.obj" \
 "CMakeFiles/leetcode_C__.dir/easy/xorOperation1486.cpp.obj" \
@@ -663,7 +663,7 @@ leetcode_C__.exe: CMakeFiles/leetcode_C__.dir/easy/isPalindrome9.cpp.obj
 leetcode_C__.exe: CMakeFiles/leetcode_C__.dir/easy/romanToInt13.cpp.obj
 leetcode_C__.exe: CMakeFiles/leetcode_C__.dir/easy/longestCommonPrefix14.cpp.obj
 leetcode_C__.exe: CMakeFiles/leetcode_C__.dir/easy/isValid20.cpp.obj
-leetcode_C__.exe: CMakeFiles/leetcode_C__.dir/easy/mergeTwoLists21.cpp.obj
+leetcode_C__.exe: CMakeFiles/leetcode_C__.dir/easy/linkedlist.mergeTwoLists21.cpp.obj
 leetcode_C__.exe: CMakeFiles/leetcode_C__.dir/easy/hammingWeight191.cpp.obj
 leetcode_C__.exe: CMakeFiles/leetcode_C__.dir/easy/singleNumber136.cpp.obj
 leetcode_C__.exe: CMakeFiles/leetcode_C__.dir/easy/xorOperation1486.cpp.obj
