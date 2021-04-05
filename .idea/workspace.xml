@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f810408-ac69-4316-adcf-3758b36a5e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/md/linkedlist/234isPalindrome.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/md/linkedlist/25reverseKGroup.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/md/tree/116connect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/md/tree/226invertTree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/linkedlist/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/linkedlist/isPalindrome234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/linkedlist/reverseKGroup25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tree/connect116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tree/invertTree226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/name.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Cpp/cmake-build-debug/CMakeFiles/leetcode_C__.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cpp/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Cpp/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cpp/cmake-build-debug/leetcode_C__.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Cpp/cmake-build-debug/leetcode_C__.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cpp/cmake-build-debug/leetcode_C__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Cpp/cmake-build-debug/leetcode_C__.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/linkedlist/reverseBetween92.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/linkedlist/reverseBetween92.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/mergeTwoLists21/MergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/linkedlist/mergeTwoLists21/MergeTwoLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/reverseList24/reverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/linkedlist/reverseList24/reverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/tree/114flatten.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/tree/flatten114.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +138,7 @@
       <workItem from="1617387337348" duration="1341000" />
       <workItem from="1617472472376" duration="3676000" />
       <workItem from="1617528611464" duration="5604000" />
-      <workItem from="1617604725604" duration="2878000" />
+      <workItem from="1617604725604" duration="3185000" />
     </task>
     <servers />
   </component>
