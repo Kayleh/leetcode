@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f810408-ac69-4316-adcf-3758b36a5e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/md/tree/654constructMaximumBinaryTree.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tree/constructMaximumBinaryTree654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/tree/flatten114.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/tree/flatten114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/BFS/111minDepth.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BFS/minDepth111.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +139,8 @@
       <workItem from="1617472472376" duration="3676000" />
       <workItem from="1617528611464" duration="5604000" />
       <workItem from="1617604725604" duration="3819000" />
-      <workItem from="1617685635575" duration="1251000" />
+      <workItem from="1617685635575" duration="2671000" />
+      <workItem from="1617813497173" duration="2818000" />
     </task>
     <servers />
   </component>
@@ -156,10 +156,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="570" y="431" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1617472651330" />
-    <state x="624" y="216" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1616314121930">
+    <state x="624" y="216" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1617815083069">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="624" y="216" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1616314121930" />
+    <state x="624" y="216" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1617815083069" />
     <state width="1851" height="564" key="GridCell.Tab.0.bottom" timestamp="1617612703200">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
