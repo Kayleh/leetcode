@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f810408-ac69-4316-adcf-3758b36a5e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/md/BFS/111minDepth.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/BFS/minDepth111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/java/176第二高的薪水.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/resources/176.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/66plus/66plus.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/BFS/752openLock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/thread/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/BFS/openLock752.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/plusOne66/plusOne66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/thread/thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/tree/isSymmetric101/isSymmetric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/tree/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +54,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\leetcode\java\src" />
+      <recent name="D:\project\leetcode\java" />
+      <recent name="D:\project\leetcode" />
       <recent name="D:\project\leetcode\java\md\Dynamic programming" />
-      <recent name="D:\project\leetcode\Cpp" />
-      <recent name="D:\project\leetcode\Cpp\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="hashTable" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\project\leetcode\java\src" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\project\leetcode\java\md\Dynamic programming" />
-      <recent name="D:\project\leetcode\java" />
+      <recent name="D:\project\leetcode\Cpp" />
+      <recent name="D:\project\leetcode\Cpp\src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.name">
@@ -140,7 +150,13 @@
       <workItem from="1617528611464" duration="5604000" />
       <workItem from="1617604725604" duration="3819000" />
       <workItem from="1617685635575" duration="2671000" />
-      <workItem from="1617813497173" duration="2818000" />
+      <workItem from="1617813497173" duration="5896000" />
+      <workItem from="1617896161795" duration="3141000" />
+      <workItem from="1618851308038" duration="2122000" />
+      <workItem from="1619020543665" duration="172000" />
+      <workItem from="1620235946028" duration="131000" />
+      <workItem from="1620265290435" duration="5402000" />
+      <workItem from="1620271739491" duration="3144000" />
     </task>
     <servers />
   </component>
@@ -152,10 +168,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1615819444159" />
-    <state x="570" y="431" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1617472651330">
+    <state x="718" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1618852608765">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="570" y="431" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1617472651330" />
+    <state x="718" y="164" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1618852608765" />
+    <state x="570" y="431" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1620267297548">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="570" y="431" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1620267297548" />
+    <state x="662" y="358" width="596" height="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1618852079940">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="662" y="358" width="596" height="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1618852079940" />
     <state x="624" y="216" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1617815083069">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -204,13 +228,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="665" y="284" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1615648319178" />
-    <state x="92" y="0" key="new project wizard" timestamp="1615664631214">
+    <state x="92" y="0" key="new project wizard" timestamp="1620235976419">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="92" y="0" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1615664631214" />
-    <state x="539" y="44" key="search.everywhere.popup" timestamp="1617387806453">
+    <state x="92" y="0" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1620235976419" />
+    <state x="539" y="44" key="search.everywhere.popup" timestamp="1620265711141">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="539" y="44" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1617387806453" />
+    <state x="539" y="44" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1620265711141" />
   </component>
 </project>
