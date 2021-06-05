@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f810408-ac69-4316-adcf-3758b36a5e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SQL/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL/src/main/java/176第二高的薪水.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL/src/main/resources/176.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/md/66plus/66plus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/md/BFS/752openLock.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/md/thread/1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/BFS/openLock752.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/plusOne66/plusOne66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/thread/thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tree/isSymmetric101/isSymmetric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/java/1179重新格式化部门表.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/java/191上升的温度.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/resources/1179.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/resources/191上升的温度.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/387firstUniqChar/firstUniqChar387.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/tree/94inorderTraversal.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/firstUniqChar387/firstUniqChar387.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/tree/inorderTraversal94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/src/main/java/176第二高的薪水.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/src/main/java/176第二高的薪水.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/BFS/minDepth111.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BFS/minDepth111.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/src/mergeTwoLists21/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/src/mergeTwoLists21/MergeTwoLists.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/md/Dynamic programming" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/guowang-repair-be" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -70,7 +74,7 @@
       <recent name="D:\project\leetcode\Cpp\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.name">
+  <component name="RunManager" selected="Batch.push">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Fibonacci10.Fibonacci" />
       <module name="java" />
@@ -91,16 +95,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+    <configuration name="firstUniqChar387" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstUniqChar387.firstUniqChar387" />
       <module name="java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="coinChange322" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coinChange322" />
-      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="firstUniqChar387.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,13 +115,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="push" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\project\leetcode" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="push.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Batch.push" />
+        <item itemvalue="Application.firstUniqChar387" />
         <item itemvalue="Application.name" />
         <item itemvalue="Application.MinStack155" />
         <item itemvalue="Application.Fibonacci" />
-        <item itemvalue="Application.coinChange322" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +170,10 @@
       <workItem from="1619020543665" duration="172000" />
       <workItem from="1620235946028" duration="131000" />
       <workItem from="1620265290435" duration="5402000" />
-      <workItem from="1620271739491" duration="3144000" />
+      <workItem from="1620271739491" duration="4196000" />
+      <workItem from="1620436075174" duration="3175000" />
+      <workItem from="1620808727107" duration="2373000" />
+      <workItem from="1622915609796" duration="1334000" />
     </task>
     <servers />
   </component>
@@ -164,6 +181,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622915669981">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1622915669981" />
     <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615819444159">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -180,26 +201,30 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="662" y="358" width="596" height="376" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1618852079940" />
-    <state x="624" y="216" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1617815083069">
+    <state x="624" y="216" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1620436918957">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="624" y="216" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1617815083069" />
-    <state width="1851" height="564" key="GridCell.Tab.0.bottom" timestamp="1617612703200">
+    <state x="624" y="216" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1620436918957" />
+    <state x="687" y="231" key="FileChooserDialogImpl" timestamp="1620284403324">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="564" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1617612703200" />
-    <state width="1851" height="564" key="GridCell.Tab.0.center" timestamp="1617612703200">
+    <state x="687" y="231" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1620284403324" />
+    <state width="1851" height="244" key="GridCell.Tab.0.bottom" timestamp="1620439263972">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="564" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1617612703200" />
-    <state width="1851" height="564" key="GridCell.Tab.0.left" timestamp="1617612703200">
+    <state width="1851" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1620439263972" />
+    <state width="1851" height="244" key="GridCell.Tab.0.center" timestamp="1620439263971">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="564" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1617612703200" />
-    <state width="1851" height="564" key="GridCell.Tab.0.right" timestamp="1617612703200">
+    <state width="1851" height="244" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1620439263971" />
+    <state width="1851" height="244" key="GridCell.Tab.0.left" timestamp="1620439263971">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="564" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1617612703200" />
+    <state width="1851" height="244" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1620439263971" />
+    <state width="1851" height="244" key="GridCell.Tab.0.right" timestamp="1620439263971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1851" height="244" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1620439263971" />
     <state width="1851" height="339" key="GridCell.Tab.1.bottom" timestamp="1616934900463">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -220,10 +245,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="442" y="192" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1617608998636" />
-    <state x="321" y="90" key="SettingsEditor" timestamp="1617609051663">
+    <state x="321" y="90" key="SettingsEditor" timestamp="1620282054258">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="321" y="90" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1617609051663" />
+    <state x="321" y="90" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1620282054258" />
     <state x="665" y="284" key="chooseDestDirectoryDialog" timestamp="1615648319178">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -232,9 +257,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="0" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1620235976419" />
-    <state x="539" y="44" key="search.everywhere.popup" timestamp="1620265711141">
+    <state x="539" y="44" width="840" height="1034" key="search.everywhere.popup" timestamp="1620439078133">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="539" y="44" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1620265711141" />
+    <state x="539" y="44" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1620439078133" />
   </component>
 </project>
