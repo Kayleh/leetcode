@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f810408-ac69-4316-adcf-3758b36a5e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL/src/main/java/1179重新格式化部门表.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL/src/main/java/191上升的温度.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL/src/main/resources/1179.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL/src/main/resources/191上升的温度.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/md/387firstUniqChar/firstUniqChar387.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/md/tree/94inorderTraversal.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/firstUniqChar387/firstUniqChar387.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tree/inorderTraversal94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/java/596超过5名学生的课.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/resources/596.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL/src/main/java/176第二高的薪水.sql" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/src/main/java/176第二高的薪水.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/BFS/minDepth111.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/BFS/minDepth111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/src/mergeTwoLists21/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/src/mergeTwoLists21/MergeTwoLists.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,22 +162,31 @@
       <workItem from="1620271739491" duration="4196000" />
       <workItem from="1620436075174" duration="3175000" />
       <workItem from="1620808727107" duration="2373000" />
-      <workItem from="1622915609796" duration="1334000" />
+      <workItem from="1622915609796" duration="1734000" />
+      <workItem from="1622917358096" duration="1102000" />
+      <workItem from="1622953634247" duration="1209000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622915669981">
+    <state x="108" y="318" key="#SQL_Dialects" timestamp="1622917463503">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1622915669981" />
-    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615819444159">
+    <state x="108" y="318" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1622917463503" />
+    <state x="552" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622917468891">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1615819444159" />
+    <state x="552" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1622917468891" />
+    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622917330287">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1622917330287" />
     <state x="718" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1618852608765">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -209,22 +207,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="687" y="231" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1620284403324" />
-    <state width="1851" height="244" key="GridCell.Tab.0.bottom" timestamp="1620439263972">
+    <state width="1851" height="233" key="GridCell.Tab.0.bottom" timestamp="1622917355420">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1620439263972" />
-    <state width="1851" height="244" key="GridCell.Tab.0.center" timestamp="1620439263971">
+    <state width="1851" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1622917355420" />
+    <state width="1851" height="233" key="GridCell.Tab.0.center" timestamp="1622917355420">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="244" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1620439263971" />
-    <state width="1851" height="244" key="GridCell.Tab.0.left" timestamp="1620439263971">
+    <state width="1851" height="233" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1622917355420" />
+    <state width="1851" height="233" key="GridCell.Tab.0.left" timestamp="1622917355420">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="244" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1620439263971" />
-    <state width="1851" height="244" key="GridCell.Tab.0.right" timestamp="1620439263971">
+    <state width="1851" height="233" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1622917355420" />
+    <state width="1851" height="233" key="GridCell.Tab.0.right" timestamp="1622917355420">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1851" height="244" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1620439263971" />
+    <state width="1851" height="233" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1622917355420" />
     <state width="1851" height="339" key="GridCell.Tab.1.bottom" timestamp="1616934900463">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
