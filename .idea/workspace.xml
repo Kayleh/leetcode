@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f810408-ac69-4316-adcf-3758b36a5e74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/md/tree/2005从上到下打印二叉树.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/tree/levelOrder2005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/tree/105buildTree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/md/tree/106buildTree2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/tree/buildTree105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/tree/buildTree106.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,20 +49,21 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\leetcode\java\md\Dynamic programming" />
+      <recent name="D:\project\leetcode\Cpp" />
+      <recent name="D:\project\leetcode\Cpp\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tree" />
+      <recent name="" />
+      <recent name="hashTable" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\project\leetcode\java\src" />
       <recent name="D:\project\leetcode\java" />
       <recent name="D:\project\leetcode" />
       <recent name="D:\project\leetcode\java\md\Dynamic programming" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-      <recent name="hashTable" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\project\leetcode\java\md\Dynamic programming" />
-      <recent name="D:\project\leetcode\Cpp" />
-      <recent name="D:\project\leetcode\Cpp\src" />
     </key>
   </component>
   <component name="RunManager" selected="Batch.push">
@@ -168,7 +171,10 @@
       <workItem from="1623028088992" duration="29000" />
       <workItem from="1626365213352" duration="1980000" />
       <workItem from="1626398795872" duration="32000" />
-      <workItem from="1626451621597" duration="2507000" />
+      <workItem from="1626451621597" duration="2536000" />
+      <workItem from="1626486550936" duration="23000" />
+      <workItem from="1626499251345" duration="3789000" />
+      <workItem from="1626622369294" duration="733000" />
     </task>
     <servers />
   </component>
@@ -187,10 +193,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1622917468891" />
-    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622917330287">
+    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626622449741">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1622917330287" />
+    <state x="616" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1626622449741" />
     <state x="718" y="164" key="#com.intellij.ide.util.MemberChooser" timestamp="1618852608765">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
